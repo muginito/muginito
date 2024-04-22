@@ -1,5 +1,4 @@
-### Olá, me chamo Miguel Vasconcelos
+## 👋 Hi, I'm Miguel!
 
-- 🏛️ Estudante de Ciência da Computação na UNIFACS
-  - 3º semestre
-- 🌱 No momento estou aprendendo data & analytics (AWS)
+- 🏛️ Third semester of Computer Sciente at UNIFACS
+- 🌱 Learning Software Engeneering, Node.js and Python for Backend Development
